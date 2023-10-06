@@ -1,1 +1,3 @@
-# Jupyter-in-google-cloud-workstations
+# Jupyter Lab in Google Cloud Workstations
+
+Create a container image that can be used in Google Cloud Workstations to have a functionnal Jupyter Lab environment
