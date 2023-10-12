@@ -1,4 +1,4 @@
-IMAGE=europe-west9-docker.pkg.dev/workshop-dev-347207/repo-workstations/jupyter-notebook:v2
+IMAGE=IMAGE_NAME
 
 
 all: build push
